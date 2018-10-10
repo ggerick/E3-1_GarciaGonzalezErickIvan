@@ -1,0 +1,6 @@
+/Users/AlanGarcia/Projects/E3-1GarciaGonzalezErickIvan/E3-1GarciaGonzalezErickIvan/bin/Debug/E3-1GarciaGonzalezErickIvan.exe
+/Users/AlanGarcia/Projects/E3-1GarciaGonzalezErickIvan/E3-1GarciaGonzalezErickIvan/bin/Debug/E3-1GarciaGonzalezErickIvan.pdb
+/Users/AlanGarcia/Projects/E3-1GarciaGonzalezErickIvan/E3-1GarciaGonzalezErickIvan/obj/x86/Debug/E3-1GarciaGonzalezErickIvan.csprojAssemblyReference.cache
+/Users/AlanGarcia/Projects/E3-1GarciaGonzalezErickIvan/E3-1GarciaGonzalezErickIvan/obj/x86/Debug/E3-1GarciaGonzalezErickIvan.csproj.CoreCompileInputs.cache
+/Users/AlanGarcia/Projects/E3-1GarciaGonzalezErickIvan/E3-1GarciaGonzalezErickIvan/obj/x86/Debug/E3-1GarciaGonzalezErickIvan.exe
+/Users/AlanGarcia/Projects/E3-1GarciaGonzalezErickIvan/E3-1GarciaGonzalezErickIvan/obj/x86/Debug/E3-1GarciaGonzalezErickIvan.pdb
